@@ -1,0 +1,262 @@
+{
+  "sections": [
+    {
+      "shelfType": "currentlyReading",
+      "title": "Currently Reading",
+      "books": [
+        {
+          "id": "1",
+          "title": "Deep Work",
+          "author": "Cal Newport",
+          "coverImageName": "deep_work",
+          "position": 1,
+          "description": "Focus without distraction in a world full of noise."
+        },
+        {
+          "id": "2",
+          "title": "The Psychology of Money",
+          "author": "Morgan Housel",
+          "coverImageName": "psychology_money",
+          "position": 2,
+          "description": "Timeless lessons on wealth, greed, and happiness."
+        },
+        {
+          "id": "3",
+          "title": "The Midnight Library",
+          "author": "Matt Haig",
+          "coverImageName": "midnight_library",
+          "position": 3,
+          "description": "A novel about life choices and alternate realities."
+        },
+        {
+          "id": "4",
+          "title": "The Subtle Art of Not Giving a F*ck",
+          "author": "Mark Manson",
+          "coverImageName": "subtle_art",
+          "position": 4,
+          "description": "A counterintuitive approach to living a good life."
+        },
+        {
+          "id": "5",
+          "title": "Ikigai",
+          "author": "Héctor García",
+          "coverImageName": "ikigai",
+          "position": 5,
+          "description": "The Japanese secret to a long and happy life."
+        },
+        {
+          "id": "6",
+          "title": "The Lean Startup",
+          "author": "Eric Ries",
+          "coverImageName": "lean_startup",
+          "position": 6,
+          "description": "A modern guide to building successful startups."
+        },
+        {
+          "id": "7",
+          "title": "Start With Why",
+          "author": "Simon Sinek",
+          "coverImageName": "start_with_why",
+          "position": 7,
+          "description": "How great leaders inspire everyone to take action."
+        },
+        {
+          "id": "8",
+          "title": "The Four Agreements",
+          "author": "Don Miguel Ruiz",
+          "coverImageName": "four_agreements",
+          "position": 8,
+          "description": "A practical guide to personal freedom."
+        },
+        {
+          "id": "9",
+          "title": "Can't Hurt Me",
+          "author": "David Goggins",
+          "coverImageName": "cant_hurt_me",
+          "position": 9,
+          "description": "Master your mind and defy the odds."
+        },
+        {
+          "id": "10",
+          "title": "The Mountain Is You",
+          "author": "Brianna Wiest",
+          "coverImageName": "mountain_is_you",
+          "position": 10,
+          "description": "Transforming self-sabotage into self-mastery."
+        }
+      ]
+    },
+    {
+      "shelfType": "wantToRead",
+      "title": "Want To Read",
+      "books": [
+        {
+          "id": "1",
+          "title": "Rich Dad Poor Dad",
+          "author": "Robert Kiyosaki",
+          "coverImageName": "rich_dad",
+          "position": 1,
+          "description": "What the rich teach their kids about money."
+        },
+        {
+          "id": "2",
+          "title": "Zero to One",
+          "author": "Peter Thiel",
+          "coverImageName": "zero_to_one",
+          "position": 2,
+          "description": "Notes on startups and building the future."
+        },
+        {
+          "id": "3",
+          "title": "The Power of Now",
+          "author": "Eckhart Tolle",
+          "coverImageName": "power_now",
+          "position": 3,
+          "description": "A guide to spiritual enlightenment."
+        },
+        {
+          "id": "4",
+          "title": "The 5 AM Club",
+          "author": "Robin Sharma",
+          "coverImageName": "5am_club",
+          "position": 4,
+          "description": "Own your morning, elevate your life."
+        },
+        {
+          "id": "5",
+          "title": "The Compound Effect",
+          "author": "Darren Hardy",
+          "coverImageName": "compound_effect",
+          "position": 5,
+          "description": "Small smart choices + consistency = big results."
+        },
+        {
+          "id": "6",
+          "title": "Mindset",
+          "author": "Carol Dweck",
+          "coverImageName": "mindset",
+          "position": 6,
+          "description": "The new psychology of success."
+        },
+        {
+          "id": "7",
+          "title": "Crushing It!",
+          "author": "Gary Vaynerchuk",
+          "coverImageName": "crushing_it",
+          "position": 7,
+          "description": "How to build your personal brand."
+        },
+        {
+          "id": "8",
+          "title": "The Code Breaker",
+          "author": "Walter Isaacson",
+          "coverImageName": "code_breaker",
+          "position": 8,
+          "description": "Jennifer Doudna and the race to understand DNA."
+        },
+        {
+          "id": "9",
+          "title": "Grit",
+          "author": "Angela Duckworth",
+          "coverImageName": "grit",
+          "position": 9,
+          "description": "The power of passion and perseverance."
+        },
+        {
+          "id": "10",
+          "title": "The Art of War",
+          "author": "Sun Tzu",
+          "coverImageName": "art_of_war",
+          "position": 10,
+          "description": "Ancient military strategy and leadership wisdom."
+        }
+      ]
+    },
+    {
+      "shelfType": "finished",
+      "title": "Finished",
+      "books": [
+        {
+          "id": "1",
+          "title": "Atomic Habits",
+          "author": "James Clear",
+          "coverImageName": "atomic_habits",
+          "position": 1,
+          "description": "Build good habits and break bad ones."
+        },
+        {
+          "id": "2",
+          "title": "1984",
+          "author": "George Orwell",
+          "coverImageName": "1984",
+          "position": 2,
+          "description": "A dystopian world of surveillance and control."
+        },
+        {
+          "id": "3",
+          "title": "Sapiens",
+          "author": "Yuval Noah Harari",
+          "coverImageName": "sapiens",
+          "position": 3,
+          "description": "A brief history of humankind."
+        },
+        {
+          "id": "4",
+          "title": "The Alchemist",
+          "author": "Paulo Coelho",
+          "coverImageName": "alchemist",
+          "position": 4,
+          "description": "Follow your dreams and listen to your heart."
+        },
+        {
+          "id": "5",
+          "title": "The Hobbit",
+          "author": "J.R.R. Tolkien",
+          "coverImageName": "hobbit",
+          "position": 5,
+          "description": "An unexpected journey through Middle-earth."
+        },
+        {
+          "id": "6",
+          "title": "Educated",
+          "author": "Tara Westover",
+          "coverImageName": "educated",
+          "position": 6,
+          "description": "A memoir of transformation through education."
+        },
+        {
+          "id": "7",
+          "title": "The Silent Patient",
+          "author": "Alex Michaelides",
+          "coverImageName": "silent_patient",
+          "position": 7,
+          "description": "A psychological thriller about hidden truth."
+        },
+        {
+          "id": "8",
+          "title": "The Martian",
+          "author": "Andy Weir",
+          "coverImageName": "martian",
+          "position": 8,
+          "description": "An astronaut's survival story on Mars."
+        },
+        {
+          "id": "9",
+          "title": "The Night Circus",
+          "author": "Erin Morgenstern",
+          "coverImageName": "night_circus",
+          "position": 9,
+          "description": "A magical competition between illusionists."
+        },
+        {
+          "id": "10",
+          "title": "Gone Girl",
+          "author": "Gillian Flynn",
+          "coverImageName": "gone_girl",
+          "position": 10,
+          "description": "A suspense novel of marriage and mystery."
+        }
+      ]
+    }
+  ]
+}
